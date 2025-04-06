@@ -1,10 +1,10 @@
 # 👋 Hi there, I’m Tarek
 
-💻 I’m a **Front End Software Engineer** passionate about creating clean, scalable web and mobile applications.
+💻 I’m a **Front End Software Engineer** passionate about creating clean, scalable web applications.
 
 ## 🌱 Tech Stack
 - JavaScript (ES6+)
-- React & React Native
+- React
 - Node.js & Express.js
 - MongoDB
 - Docker
