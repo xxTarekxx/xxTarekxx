@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Tarek
 
-💻 I’m a **Full Stack Developer** passionate about creating clean, scalable web and mobile applications.
+💻 I’m a **Front End Software Engineer** passionate about creating clean, scalable web and mobile applications.
 
 ## 🌱 Tech Stack
 - JavaScript (ES6+)
