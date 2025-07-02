@@ -5,7 +5,7 @@
 - 🛠️ Core Stack: **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB**
 - 🔧 Dev Tools: GitHub, Firebase, Vite, REST APIs, Docker (basic), SQL
 - 📊 Analytics & Monitoring: Google Search Console, PageSpeed Insights, Google Analytics
-- 🧠 AI-Enhanced Workflow: Leveraging ChatGPT & Gemini for dev + SEO tasks
+- 🧠 AI-Enhanced Workflow: Leveraging ChatGPT & Ai Studio for dev + SEO tasks
 - 📱 Learning: React Native · Mobile-first Design · Clean UI/UX with Figma → React
 
 ---
