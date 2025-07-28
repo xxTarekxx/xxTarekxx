@@ -28,7 +28,7 @@ A full-stack blog and tools hub featuring:
 
 ## 🧭 Current Role
 
-🎯 **Front-End Team Lead Intern** @ *Sports Excitement*  
+🎯 **Front-End Team Lead Intern** @ [Sports Excitement](https://www.linkedin.com/company/sportsexcitement/posts/?feedView=all) 
 - Leading React/TypeScript UI builds  
 - Turning Figma designs into functional components  
 - API integrations & Git-based collaboration  
