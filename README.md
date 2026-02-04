@@ -11,6 +11,17 @@ Building scalable, real-world applications with modern web technologies, clean a
 - 📱 **Currently Learning:** React Native, mobile-first design, Figma → React UI workflows
 
 ---
+## 🧭 Current Role
+
+🎯 **Full Stack Developer Lead Intern** @ Sports Excitement  
+- Leading development of Next.js & React UI components based on Figma designs  
+- Collaborating with product managers, designers, and marketing stakeholders  
+- Integrating backend APIs with proper state management, loading states, and error handling  
+- Improving performance and Core Web Vitals through bundle optimization and efficient rendering  
+- Conducting code reviews and maintaining clean Git workflows (feature branches & PRs)  
+- Contributing to reusable component patterns and scalable frontend architecture
+
+---
 
 ## 🧑‍💻 Featured Work
 
@@ -28,16 +39,6 @@ A production, full-stack platform built and maintained end-to-end:
 ## 🧪 Side Projects
 - ☀️ Weather App — https://master.d3pzyltjs0n18u.amplifyapp.com  
 - 🥬 Organic Storefront — https://xxtarekxx.github.io/FreshFood  
-
----
-
-## 🧭 Current Role
-
-🎯 **Front-End Team Lead Intern** @ Sports Excitement  
-- Leading React & TypeScript UI development  
-- Translating Figma designs into reusable components  
-- API integrations, Git collaboration, and code reviews  
-- Performance tuning and UI consistency
 
 ---
 
