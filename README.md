@@ -1,47 +1,51 @@
 # 👋 Hi, I'm Tarek
 
-💻 **Front-End Software Engineer** | Building scalable, real-world apps with modern tech and clean code.
+💻 **Front-End Software Engineer** (Full-Stack in practice)  
+Building scalable, real-world applications with modern web technologies, clean architecture, and strong SEO fundamentals.
 
-- 🛠️ Core Stack: **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB**
-- 🔧 Dev Tools: GitHub, Firebase, Vite, REST APIs, Docker (basic), SQL
-- 📊 Analytics & Monitoring: Google Search Console, PageSpeed Insights, Google Analytics
-- 🧠 AI-Enhanced Workflow: Leveraging ChatGPT & Ai Studio for dev + SEO tasks
-- 📱 Learning: React Native · Mobile-first Design · Clean UI/UX with Figma → React
+- 🛠️ **Core Stack:** JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB  
+- 🔧 **Dev & Infra Tools:** GitHub, Firebase (Auth & Firestore), Vite, REST APIs, Docker (basic), SQL, PM2  
+- ☁️ **Production Experience:** Self-hosted on Ubuntu VPS, CI/CD, environment management  
+- 📊 **SEO & Performance:** Google Search Console, PageSpeed Insights, Google Analytics, JSON-LD  
+- 🧠 **AI-Enhanced Workflow:** ChatGPT & AI Studio for development, debugging, and SEO tasks  
+- 📱 **Currently Learning:** React Native, mobile-first design, Figma → React UI workflows
 
 ---
 
 ## 🧑‍💻 Featured Work
 
 ### 🌐 [DollarsAndLife.com](https://www.dollarsandlife.com) — Personal Finance Platform  
-A full-stack blog and tools hub featuring:
-- 🚀 Next.js + SSR for SEO and performance  
-- 🔐 Firebase Auth with Google & Microsoft login  
-- 🧰 Firestore backend with custom forum system  
-- 📈 AI-assisted content strategy and EEAT optimization  
-→ [GitHub Repo](https://github.com/xxTarekxx/dollarsandlife)
+A production, full-stack platform built and maintained end-to-end:
+- 🚀 Next.js with SSR for SEO and performance  
+- 🔐 Firebase Authentication (Google & Microsoft login)  
+- 🧰 MongoDB + Firestore backend with a custom forum system  
+- 📈 AI-assisted content strategy with EEAT & structured data (JSON-LD)  
+- ⚙️ Deployed on Ubuntu with PM2 and Git-based workflows  
+→ **Repo:** https://github.com/xxTarekxx/dollarsandlife
 
-### 🧪 Side Projects
-- ☀️ [Weather App](https://master.d3pzyltjs0n18u.amplifyapp.com/)
-- 🥬 [Organic Storefront](https://xxtarekxx.github.io/FreshFood/)
+---
+
+## 🧪 Side Projects
+- ☀️ Weather App — https://master.d3pzyltjs0n18u.amplifyapp.com  
+- 🥬 Organic Storefront — https://xxtarekxx.github.io/FreshFood  
 
 ---
 
 ## 🧭 Current Role
 
-🎯 **Front-End Team Lead Intern** @ [Sports Excitement](https://www.linkedin.com/company/sportsexcitement/posts/?feedView=all) 
-- Leading React/TypeScript UI builds  
-- Turning Figma designs into functional components  
-- API integrations & Git-based collaboration  
-- Code reviews & performance tuning
+🎯 **Front-End Team Lead Intern** @ Sports Excitement  
+- Leading React & TypeScript UI development  
+- Translating Figma designs into reusable components  
+- API integrations, Git collaboration, and code reviews  
+- Performance tuning and UI consistency
 
 ---
 
 ## 🤝 Open to Collaborate
 
-Looking to contribute to strong **Front-End** or **Full Stack** open source projects.
+Interested in **Front-End** and **Full-Stack** projects with real users, real traffic, and real impact.
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tarek-ismael-96777578/)
+## 📫 Let’s Connect
+- 💼 LinkedIn: https://www.linkedin.com/in/tarek-ismael-96777578/
