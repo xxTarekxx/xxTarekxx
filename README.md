@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tarek
 
-💻 **Front-End Software Engineer** (Full-Stack in practice)  
+💻 **Full Stack Software Engineer**
 Building scalable, real-world applications with modern web technologies, clean architecture, and strong SEO fundamentals.
 
 - 🛠️ **Core Stack:** JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB  
@@ -13,7 +13,7 @@ Building scalable, real-world applications with modern web technologies, clean a
 ---
 ## 🧭 Current Role
 
-🎯 **Full Stack Developer Lead Intern** @ Sports Excitement  
+🎯 **Founding Full Stack Developer Lead** @ Sports Excitement  
 - Leading development of Next.js & React UI components based on Figma designs  
 - Collaborating with product managers, designers, and marketing stakeholders  
 - Integrating backend APIs with proper state management, loading states, and error handling  
