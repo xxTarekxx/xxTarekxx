@@ -14,12 +14,14 @@ Building scalable, real-world applications with modern web technologies, clean a
 ## 🧭 Current Role
 
 🎯 **Founding Full Stack Developer** @ Sports Excitement  
-- Leading development of Next.js & React UI components based on Figma designs  
-- Collaborating with product managers, designers, and marketing stakeholders  
-- Integrating backend APIs with proper state management, loading states, and error handling  
-- Improving performance and Core Web Vitals through bundle optimization and efficient rendering  
-- Conducting code reviews and maintaining clean Git workflows (feature branches & PRs)  
-- Contributing to reusable component patterns and scalable frontend architecture
+- Leading development of scalable Next.js & React applications, translating Figma designs into production-ready UI components  
+- Building and integrating RESTful APIs using Node.js, Prisma ORM, and PostgreSQL, including Supabase-backed services  
+- Managing application state, API interactions, loading states, and error boundaries for robust user experiences  
+- Containerizing applications with Docker for consistent local and production environments  
+- Optimizing performance and Core Web Vitals through code splitting, SSR/ISR strategies, and efficient data fetching  
+- Collaborating cross-functionally with product managers, designers, and marketing teams in agile workflows  
+- Maintaining clean GitLab workflows (feature branches, merge requests, CI/CD pipelines) and participating in code reviews  
+- Designing reusable component systems and scalable frontend architecture for long-term maintainability  
 
 ---
 
