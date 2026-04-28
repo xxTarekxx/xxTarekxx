@@ -1,54 +1,82 @@
 # 👋 Hi, I'm Tarek
 
-💻 **Full Stack Software Engineer**
-Building scalable, real-world applications with modern web technologies, clean architecture, and strong SEO fundamentals.
+💻 **Full-Stack Software Engineer**
+I build scalable, production-ready applications with a focus on backend systems, automation, and real-world impact.
 
-- 🛠️ **Core Stack:** JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB  
-- 🔧 **Dev & Infra Tools:** GitHub, Firebase (Auth & Firestore), Vite, REST APIs, Docker (basic), SQL, PM2  
-- ☁️ **Production Experience:** Self-hosted on Ubuntu VPS, CI/CD, environment management  
-- 📊 **SEO & Performance:** Google Search Console, PageSpeed Insights, Google Analytics, JSON-LD  
-- 🧠 **AI-Enhanced Workflow:** ChatGPT & AI Studio for development, debugging, and SEO tasks  
-- 📱 **Currently Learning:** React Native, mobile-first design, Figma → React UI workflows
+- 🛠️ **Core Stack:** TypeScript, React, Next.js, Node.js, Express, PostgreSQL  
+- ⚙️ **Backend & Systems:** REST APIs, ETL pipelines, Redis, Prisma, Supabase  
+- ☁️ **Infrastructure:** Docker, Ubuntu VPS, CI/CD, PM2  
+- 🤖 **AI Integration:** OpenAI APIs, intent detection systems, automation workflows  
+- 📊 **Performance & SEO:** JSON-LD, Core Web Vitals, Google Search Console  
 
 ---
+
 ## 🧭 Current Role
 
-🎯 **Founding Full Stack Developer** @ Sports Excitement  
-- Leading development of scalable Next.js & React applications, translating Figma designs into production-ready UI components  
-- Building and integrating RESTful APIs using Node.js, Prisma ORM, and PostgreSQL, including Supabase-backed services  
-- Managing application state, API interactions, loading states, and error boundaries for robust user experiences  
-- Containerizing applications with Docker for consistent local and production environments  
-- Optimizing performance and Core Web Vitals through code splitting, SSR/ISR strategies, and efficient data fetching  
-- Collaborating cross-functionally with product managers, designers, and marketing teams in agile workflows  
-- Maintaining clean GitLab workflows (feature branches, merge requests, CI/CD pipelines) and participating in code reviews  
-- Designing reusable component systems and scalable frontend architecture for long-term maintainability  
+**Founding Full-Stack Engineer** @ Sports Excitement  
+
+- Built and shipped full-stack features improving onboarding speed and reducing load times  
+- Developed scalable React/Next.js UI systems from Figma designs  
+- Integrated backend APIs using Node.js, Prisma, and PostgreSQL  
+- Optimized performance using SSR/ISR and efficient data fetching  
+- Containerized services with Docker and maintained CI/CD workflows  
+- Designed reusable frontend architecture for long-term scalability  
 
 ---
 
-## 🧑‍💻 Featured Work
+## 🚀 Featured Projects
 
 ### 🌐 [DollarsAndLife.com](https://www.dollarsandlife.com) — Personal Finance Platform  
-A production, full-stack platform built and maintained end-to-end:
-- 🚀 Next.js with SSR for SEO and performance  
-- 🔐 Firebase Authentication (Google & Microsoft login)  
-- 🧰 MongoDB + Firestore backend with a custom forum system  
-- 📈 AI-assisted content strategy with EEAT & structured data (JSON-LD)  
-- ⚙️ Deployed on Ubuntu with PM2 and Git-based workflows  
-→ **Repo:** https://github.com/xxTarekxx/dollarsandlife
+Production full-stack platform built and maintained end-to-end:
+
+- Next.js (SSR) for SEO and performance  
+- Firebase Auth (Google & Microsoft login)  
+- MongoDB + Firestore backend with forum system  
+- Programmatic SEO using JSON-LD and structured content  
+- Deployed on Ubuntu VPS with PM2  
+
+→ Repo: https://github.com/xoTarekxx/dollarsandlife  
 
 ---
 
-## 🧪 Side Projects
-- ☀️ Weather App — https://master.d3pzyltjs0n18u.amplifyapp.com  
-- 🥬 Organic Storefront — https://xxtarekxx.github.io/FreshFood  
+### 🛑 RecallsAtlas — Data Pipeline System  
+Automated FDA recall ingestion and processing pipeline:
+
+- Playwright-based scraping + ETL pipeline  
+- Reduced duplicate data by ~90%  
+- Implemented retry logic reducing failures by ~70%  
+- Generated structured JSON-LD data for SEO  
+
+→ Repo: https://github.com/xoTarekxx/recallsatlas  
+
+---
+
+### 🤖 AnswerAI / NeloDesk — AI Receptionist (In Progress)  
+AI-powered system for handling business calls and customer interactions:
+
+- AI-driven intent detection and response generation  
+- Twilio / Plivo integration for call handling  
+- Backend APIs for orders, bookings, and business logic  
+- Designed for real-world business automation  
+
+→ Repo: https://github.com/xoTarekxx/answer-ai  
+→ Product: https://nelodesk.com *(coming soon)*  
+
+---
+
+## 🧪 Additional Projects
+
+- Weather App — https://master.d3pzyltjs0n18u.amplifyapp.com  
+- Organic Storefront — https://xxtarekxx.github.io/FreshFood  
 
 ---
 
 ## 🤝 Open to Collaborate
 
-Interested in **Front-End** and **Full-Stack** projects with real users, real traffic, and real impact.
+Interested in **Full-Stack and Backend-focused roles** working on real products with measurable impact.
 
 ---
 
-## 📫 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/tarek-ismael-96777578/
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/tarek-ismael-96777578/
