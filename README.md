@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Tarek
 
+🌐 **Portfolio:** [tareksportfolio.com](https://tareksportfolio.com)
+
 💻 **Full-Stack Software Engineer**
 I build scalable, production-ready applications with a focus on backend systems, automation, and real-world impact.
 
